@@ -130,4 +130,5 @@ Within this query, it adjusts various font sizes for elements to make the conten
 It reduces the font size of the "hero-title" to 6rem and adjusts other text elements like "hero-subtitle," "author," "quote," "list-title," and "text" to 1.8rem, 2rem, and 1.6rem, respectively.
 It also reduces the font size of the "social-icons" to 2rem.
 
-
+# Hosted Link
+https://nikhitha5511.github.io/Magzine/?authuser=0
